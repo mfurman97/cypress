@@ -1,6 +1,6 @@
 # cypresstests
 Configuration
-Please create cypress.env.json file and fill it with the content
+Please create <b>cypress.env.json </b> file and fill it with the content
 
 
     {
