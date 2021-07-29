@@ -16,8 +16,10 @@ Please create cypress.env.json file and fill it with the content
 
 
 Install the project
-    npm install
+       
+       npm install
 
 
 Run the project
+    
     npm run cypress:open
