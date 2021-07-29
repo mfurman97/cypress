@@ -17,7 +17,7 @@ Please create <b>cypress.env.json </b> file and fill it with the content
 
 Install the project
        
-       npm install
+    npm install
 
 
 Run the project
